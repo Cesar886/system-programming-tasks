@@ -1,0 +1,95 @@
+﻿  boton.cpp
+C:\Users\cesar\source\repos\MFCApplication1\boton.h(17,7): error C2653: 'CMiClaseDeDialogo': no es un nombre de clase o espacio de nombres
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(30,33): error C2065: 'PrimerNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(31,33): error C2065: 'SegundoNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(32,22): error C2065: 'IDC_STATIC_RESULTADO': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(32,44): error C2065: 'Resultado': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(36,5): error C2065: 'IDC_BUTTON1': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(35,1): error C2737: '_messageEntries': se debe inicializar el objeto const
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(45,41): error C2065: 'PrimerNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(45,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(46,41): error C2065: 'SegundoNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(46,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(53,13): error C3861: 'MostrarResultado': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(65,41): error C2065: 'PrimerNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(65,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(66,41): error C2065: 'SegundoNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(66,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(71,9): error C3861: 'MostrarResultado': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(78,41): error C2065: 'PrimerNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(78,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(79,41): error C2065: 'SegundoNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(79,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(84,9): error C3861: 'MostrarResultado': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(91,41): error C2065: 'PrimerNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(91,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(92,41): error C2065: 'SegundoNumero': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(92,19): error C3861: 'ObtenerValorDeControl': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(97,9): error C3861: 'MostrarResultado': no se encontró el identificador
+  (compilando archivo de origen "/boton.cpp")
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(102,15): error C2039: "ObtenerValorDeControl": no es un miembro de "boton"
+  (compilando archivo de origen "/boton.cpp")
+      C:\Users\cesar\source\repos\MFCApplication1\boton.h(7,7):
+      vea la declaración de 'boton'
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(129,13): error C2039: "MostrarResultado": no es un miembro de "boton"
+  (compilando archivo de origen "/boton.cpp")
+      C:\Users\cesar\source\repos\MFCApplication1\boton.h(7,7):
+      vea la declaración de 'boton'
+  
+C:\Users\cesar\source\repos\MFCApplication1\boton.cpp(133,5): error C2065: 'Resultado': identificador no declarado
+  (compilando archivo de origen "/boton.cpp")
+  
