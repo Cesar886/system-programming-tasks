@@ -1,0 +1,6 @@
+﻿  pcap_filter.cpp
+C:\npcap-sdk\Examples-pcap\pcap_filter\pcap_filter.cpp(1,9): warning C4005: 'HAVE_REMOTE': redefinición de macro
+      C:\npcap-sdk\Examples-pcap\pcap_filter\pcap_filter.cpp(1,9):
+      'HAVE_REMOTE' declarado previamente en la línea de comandos
+  
+  pcap_filter.vcxproj -> C:\npcap-sdk\Examples-pcap\x64\Debug\pcap_filter.exe
